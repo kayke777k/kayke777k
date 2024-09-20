@@ -3,7 +3,7 @@
 Meu nome é Kayke Almeida
 
 
-Estou estudando alura
+Estou estudando ALURA
 
 
 Estou me desenvolvendo na linguagem Javascript
