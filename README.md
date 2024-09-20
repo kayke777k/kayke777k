@@ -1,10 +1,10 @@
-boas vindas ao meu perfil
 
-meu nome é Kayke Almeida
-estou estudando alura
-estou me desinvolvendo na linguagem javascript
-ultilizo esses espaços para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-para voce entrar em contato comigo
+Meu nome é Kayke Almeida
+Estou estudando alura
+Estou me desenvolvendo na linguagem Javascript.
+Ultilizo esses espaços para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-kayke.sena@escola.pr.gov.br
+Para voce entrar em contato comigo:
+
+e-mailkayke.sena@escola.pr.gov.br
